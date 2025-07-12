@@ -1,8 +1,8 @@
-# ![Marvo Logo](https://your-image-link.com/logo.png)
+# ![Marvo Logo](httpslogo.png)
 
 # 💀 Marvo Stealer – The Best Python Stealer of 2025 💀
 
-![Banner](https://your-image-link.com/banner.png)
+![Banner](https://cdn.discordapp.com/attachments/1389641412420567194/1390492372357349417/7850507B-99B1-45F3-BA32-82D7A2D0DFCE.png?ex=6873006f&is=6871aeef&hm=22c85dcb6b7254f3d0e8d9f1b5407cadf0ff2649aeca537a3fe81fd7be450acd&)
 
 > **Marvo Stealer** is the most advanced, fully undetectable (FUD), and customizable Python stealer of 2025. Designed to evade detection and remain stealthy, it's packed with powerful features for testing environments, red teaming, and educational research.
 
@@ -52,7 +52,7 @@ You can now send it to your **targets/test machines**. 😈
 
 ## 🖼️ GUI Preview
 
-![GUI Screenshot](https://your-image-link.com/gui.png)
+![GUI Screenshot](https://cdn.discordapp.com/attachments/1389641412420567194/1393393761861767319/B1C178E6-6CD2-4756-BD2B-40453F19BAD7.png?ex=68730290&is=6871b110&hm=78227d27ac7de09878c461d7f6cf5fe2a3d0652da0bc2d797dbd122675d7a031&)
 
 ---
 
