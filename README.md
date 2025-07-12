@@ -32,7 +32,7 @@ Make sure Python **3.10 or higher** is installed and added to your system **PATH
 ### 2. 📦 Download the Files
 Extract the downloaded `.zip` file. Do **not** run it from inside the archive.
 
-### 3. 🔧 Run `setup.bat`
+### 3. 🔧 Run `setup.py`
 Double-click `setup.py` – this installs all required Python modules automatically.  
 Then run `main.py`**to launch the GUI.**
 
